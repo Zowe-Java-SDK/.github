@@ -6,4 +6,4 @@ With z/OSMF Rest APIs in place on your z/OS instance, client-side applications c
   
 z/OS services includes such things as submitting a job, creating a dataset or member, writing to a member or sequential dataset, monitoring a job's status and reporting on it completion, retrieving a job log and much more.   
 
-Email me for an invitation to join this organization if you like to participate as a contributor by updating existing projects or donating new projects!  
+Email me at giofr01@yahoo.com for an invitation to join this organization if you like to participate as a contributor by updating existing projects or donating new projects!  
