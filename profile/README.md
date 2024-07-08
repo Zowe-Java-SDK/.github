@@ -7,8 +7,8 @@ With z/OSMF Rest APIs in place on your z/OS instance, client-side applications c
 z/OS services include such things as submitting a job, creating a dataset or member, writing to a member or sequential dataset, monitoring a job's status and reporting on its completion, retrieving a job log and much more.  
   
 Needing to perform z/OS operations and tasks take the Zowe Java SDK for a spin, see 
-[Installation](https://github.com/zowe/zowe-client-java-sdk/edit/main/README.md#install-java-sdk-from-an-online-registry).
+[Installation](https://github.com/zowe/zowe-client-java-sdk/tree/main?tab=readme-ov-file#install-java-sdk-from-an-online-registry).
 
-For Zowe Java SDK usage and syntax examples, see the repositories here and the SDK package [readmes](https://github.com/zowe/zowe-client-java-sdk/edit/main/README.md#examples).  
+For Zowe Java SDK usage and syntax examples, see the repositories here and the SDK package [readmes](https://github.com/zowe/zowe-client-java-sdk/tree/main?tab=readme-ov-file#examples).  
 
 Email me at giofr01@yahoo.com for an invitation to join this organization if you like to participate as a contributor by updating existing projects or donating new projects!  
